@@ -27,7 +27,7 @@ function App() {
         <div>
           <h2 className="text-xl font-bold pb-2">2. Authentication API</h2>
           <div>
-            <h4><span className="list-disc pb-2 font-semibold text-black/80">API Link:</span> <a className="underline text-green-600 font-medium hover:text-green-400" href="">Click Here for Open</a></h4>
+            <h4><span className="list-disc pb-2 font-semibold text-black/80">API Link:</span> <a className="underline text-green-600 font-medium hover:text-green-400" target="_blank" href="https://documenter.getpostman.com/view/42885616/2sB3QCSDqm">Click Here for Open</a></h4>
             <div>
               <h4 className="list-disc font-semibold text-black/80">Task:</h4>
               <li className="translate-x-12 text-black/70 font-medium">Implement all authentication endpoints on the frontend.</li>
